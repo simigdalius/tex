@@ -1,0 +1,86 @@
+\xpg@aux {}{greek}
+\xpg@aux {}{greek}
+\xpg@aux {}{greek}
+\xpg@aux {}{greek}
+\xpg@aux {}{greek}
+\contentsline {subsection}{Πρόλογος}{iv}{}%
+\xpg@aux {}{greek}
+\contentsline {subsection}{Περίληψη}{v}{}%
+\contentsline {subsection}{Abstract}{vi}{}%
+\xpg@aux {}{greek}
+\contentsline {subsection}{Ευχαριστίες}{vii}{}%
+\contentsline {subsection}{Περιεχόμενα}{viii}{}%
+\contentsline {subsection}{Κατάλογος Σχημάτων}{x}{}%
+\contentsline {subsection}{Κατάλογος Πινάκων}{x}{}%
+\contentsline {subsection}{Συντομογραφίες}{xi}{}%
+\xpg@aux {}{greek}
+\contentsline {section}{\numberline {1}Εισαγωγή}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Περιορισμένη κινητικότητα και τεχνολογία}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Ορισμός προβλήματος και κίνητρο}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Σκοπός και στόχοι της εργασίας}{2}{}%
+\contentsline {subsection}{\numberline {1.4}Συνεισφορά της Εργασίας}{2}{}%
+\contentsline {subsection}{\numberline {1.5}Δομή εργασίας}{3}{}%
+\contentsline {section}{\numberline {2}Βιβλιογραφική Ανασκόπηση}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Εισαγωγή}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Κινητική Αναπηρία και Προσβασιμότητα}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Ορισμός, ανάγκες και κοινωνική/οικονομική διάσταση}{5}{}%
+\contentsline {paragraph}{Κοινωνική και Ψυχολογική Διάσταση}{5}{}%
+\contentsline {paragraph}{Οικονομική Διάσταση και Ανάγκες}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Προβλήματα συμβατικών χειριστηρίων και σύγχρονων λύσεων προσβασιμότητας}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Υπάρχουσες Λύσεις και Εναλλακτικά Χειριστήρια}{7}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Λύσεις υλισμικού και περιορισμοί}{7}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Ανάλυση Αλληλεπίδρασης και Περιπτώσεων Χρήσης (Use Cases) υλισμικού}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Λύσεις λογισμικού και περιορισμοί}{13}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Ανάλυση Αλληλεπίδρασης και Περιπτώσεων Χρήσης (Use Cases) λογισμικου}{15}{}%
+\contentsline {subsubsection}{\numberline {2.3.5}Σύνοψη υφιστάμενων λύσεων και αιτιολόγηση επιλογής λογισμικού}{17}{}%
+\contentsline {subsection}{\numberline {2.4}Σύνοψη κεφαλαίου}{18}{}%
+\contentsline {section}{\numberline {3}Τεχνολογικό Υπόβαθρο}{20}{}%
+\contentsline {subsection}{\numberline {3.1}Εισαγωγή}{20}{}%
+\contentsline {subsection}{\numberline {3.2}Επεξεργασία Εικόνας}{20}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Θεωρία Επεξεργασίας Βίντεο και OpenCV}{20}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Το Πλαίσιο Google MediaPipe και Αναγνώριση Σημείων}{21}{}%
+\contentsline {subsection}{\numberline {3.3}Τεχνητή Νοημοσύνη}{24}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Αρχιτεκτονική Ενσωμάτωσης Μοντέλων μέσω Ollama}{26}{}%
+\contentsline {paragraph}{Ποσοτικοποίηση Μοντέλων (\textenglish {Model Quantization})}{26}{}%
+\contentsline {paragraph}{Επικοινωνία μέσω \textenglish {REST API} και Δομημένη Έξοδος}{27}{}%
+\contentsline {paragraph}{Πλεονεκτήματα Τοπικής Εκτέλεσης}{27}{}%
+\contentsline {subsection}{\numberline {3.4}Αλληλεπίδραση Ανθρώπου-Υπολογιστή}{27}{}%
+\contentsline {subsection}{\numberline {3.5}Σύνοψη κεφαλαίου}{29}{}%
+\contentsline {section}{\numberline {4}Ανάλυση Απαιτήσεων και Σχεδίαση συστήματος}{30}{}%
+\contentsline {subsection}{\numberline {4.1}Εισαγωγή}{30}{}%
+\contentsline {subsection}{\numberline {4.2}Καταγραφή απαιτήσεων συστήματος}{30}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Καταγραφή λειτουργικών απαιτήσεων}{30}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Καταγραφή μη λειτουργικών απαιτήσεων}{32}{}%
+\contentsline {subsection}{\numberline {4.3}Αρχιτεκτονική Συστήματος}{34}{}%
+\contentsline {subsection}{\numberline {4.4}Σχεδιασμός Διεπαφής χρήστη}{37}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Οπτική Ταυτότητα και Εργονομία (Visual Identity \& Ergonomics)}{37}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Χωρική Διάταξη και Εφαρμογή του Νόμου του Fitts}{37}{}%
+\contentsline {subsubsection}{\numberline {4.4.3}Σχεδιασμός Ειδικών Λειτουργιών και Εισαγωγής Κειμένου}{38}{}%
+\contentsline {subsubsection}{\numberline {4.4.4}Πολυτροπική Ανατροφοδότηση (Multimodal Feedback)}{39}{}%
+\contentsline {subsection}{\numberline {4.5}Σύνοψη Κεφαλαίου}{40}{}%
+\contentsline {section}{\numberline {5}Υλοποίηση του Λογισμικού}{41}{}%
+\contentsline {subsection}{\numberline {5.1}Εισαγωγή}{41}{}%
+\contentsline {subsection}{\numberline {5.2}Περιβάλλον Ανάπτυξης και Βιβλιοθήκες}{41}{}%
+\contentsline {subsection}{\numberline {5.3}Υλοποίηση Ανίχνευσης Χαρακτηριστικών Προσώπου}{43}{}%
+\contentsline {subsection}{\numberline {5.4}Αρχιτεκτονική και δομή κώδικα }{44}{}%
+\contentsline {subsection}{\numberline {5.5}Λογική Αναγνώρισης Χειρονομιών και Head-Tracking (Joystick)}{44}{}%
+\contentsline {subsection}{\numberline {5.6}Ενσωμάτωση Γλωσσικού Μοντέλου}{47}{}%
+\contentsline {subsubsection}{\numberline {5.6.1}Τεχνική Υλοποίηση και Ανάλυση Κώδικα}{49}{}%
+\contentsline {subsection}{\numberline {5.7}Διαχείριση και Αποθήκευση Δεδομένων (Database \& Profiles)}{52}{}%
+\contentsline {subsection}{\numberline {5.8}Δημιουργία του Γραφικού Περιβάλλοντος}{54}{}%
+\contentsline {subsection}{\numberline {5.9}Σύνοψη Κεφαλαίου}{62}{}%
+\contentsline {section}{\numberline {6}Αξιολόγηση Εφαρμογής}{64}{}%
+\contentsline {subsection}{\numberline {6.1}Εισαγωγή}{64}{}%
+\contentsline {subsection}{\numberline {6.2}Στόχοι Αξιολόγησης}{64}{}%
+\contentsline {subsection}{\numberline {6.3}Μεθοδολογία}{64}{}%
+\contentsline {subsection}{\numberline {6.4}Αποτελέσματα}{65}{}%
+\contentsline {subsection}{\numberline {6.5}Μετρήσεις Απόδοσης}{65}{}%
+\contentsline {subsection}{\numberline {6.6}Αξιολόγηση Χρηστικότητας}{65}{}%
+\contentsline {subsection}{\numberline {6.7}Σύνοψη Κεφαλαίου}{65}{}%
+\contentsline {section}{\numberline {7}Συμπεράσματα και Μελλοντικές Προεκτάσεις}{66}{}%
+\contentsline {subsection}{\numberline {7.1}Σύνοψη Εργασίας και Βασικά Συμπεράσματα}{66}{}%
+\contentsline {subsection}{\numberline {7.2}Περιορισμοί του συστήματος}{67}{}%
+\contentsline {subsection}{\numberline {7.3}Προτάσεις και Μελλοντική Εξέλιξη}{68}{}%
+\xpg@aux {}{greek}
+\contentsline {section}{Βιβλιογραφία}{70}{}%
+\contentsline {section}{\numberline {\Greeknumeral {1}}ΤΙΤΛΟΣ ΠΑΡΑΡΤΗΜΑΤΟΣ}{74}{}%
