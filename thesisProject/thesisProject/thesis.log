@@ -1,0 +1,2090 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.21)  22 NOV 2026 22:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.st
+y
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xp
+arse.sty
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
+xetex.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count282
+\g__pdfannot_backend_int=\count283
+\g__pdfannot_backend_link_int=\count284
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xe
+tex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count285
+\l__fontspec_language_int=\count286
+\l__fontspec_strnum_int=\count287
+\l__fontspec_tmp_int=\count288
+\l__fontspec_tmpa_int=\count289
+\l__fontspec_tmpb_int=\count290
+\l__fontspec_tmpc_int=\count291
+\l__fontspec_em_int=\count292
+\l__fontspec_emdef_int=\count293
+\l__fontspec_strong_int=\count294
+\l__fontspec_strongdef_int=\count295
+\l__fontspec_tmpa_dim=\dimen157
+\l__fontspec_tmpb_dim=\dimen158
+\l__fontspec_tmpc_dim=\dimen159
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cf
+g)))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\polyglos
+sia.sty
+Package: polyglossia 2026/07/22 v2.12 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.st
+y
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+\l_xpg_alias_keyvals_int=\count297
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-la
+tex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-gr
+eek.ldf
+File: gloss-greek.ldf polyglossia: module for Greek
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\xgreek-f
+ixes.def)
+\@attic@num=\count298
+)
+
+Package polyglossia Info: Default language is greek
+
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-en
+glish.ldf
+File: gloss-english.ldf polyglossia: module for English
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Script 'Greek' not explicitly supported within font
+(fontspec)             'Courier New'. Check the typeset output, and if it is
+(fontspec)             okay then ignore this warning. Otherwise a different
+(fontspec)             font should be chosen.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(1)' created for font 'Courier
+(fontspec)             New' with options [Script=Greek].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=grek;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=grek;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=grek;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=grek;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(1)' created for font 'Arial' with
+(fontspec)             options [Script=Greek].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=grek;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=grek;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=grek;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=grek;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=grek;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=grek;language=dflt;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=grek;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=grek;language=dflt;+smcp;"
+
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen160
+)) (C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+) (C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count299
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count300
+\leftroot@=\count301
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count302
+\DOTSCASE@=\count303
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count304
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count305
+\dotsspace@=\muskip17
+\c@parentequation=\count306
+\dspbrk@lvl=\count307
+\tag@help=\toks20
+\row@=\count308
+\column@=\count309
+\maxfields@=\count310
+\andhelp@=\toks21
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
+y
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\alphab
+eta.sty
+Package: alphabeta 2023-11-16 2.6 macros for Greek letters in text and math
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\textal
+pha.sty
+Package: textalpha 2023-09-12 2.5 macros for Greek letters in text
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\tuenc-
+greek.def
+File: tuenc-greek.def 2023-09-12 2.5 Greek LICRs for XeTeX and LuaTeX
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-
+fontenc.def
+File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
+)
+LaTeX Encoding Info:    Redeclaring text symbol \textmu (encoding TU) on input 
+line 215.
+LaTeX Encoding Info:    Redeclaring text symbol \textohm (encoding TU) on input
+ line 350.
+)))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.d
+ef
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.l
+tx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.st
+y
+Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
+ (C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen171
+\ar@mcellbox=\box55
+\extrarowheight=\dimen172
+\NC@list=\toks24
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box56
+)
+\everycr=\toks25
+\minrowclearance=\skip56
+\rownum=\count311
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\ti
+kz.sty
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs
+.sty
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
+til-common.tex
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen173
+\pgfutil@tempdimb=\dimen174
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
+til-latex.def
+\pgfutil@abb=\box57
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfr
+cs.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.t
+ex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfs
+ys.sty
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
+eys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
+eyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen175
+\pgf@y=\dimen176
+\pgf@xa=\dimen177
+\pgf@ya=\dimen178
+\pgf@xb=\dimen179
+\pgf@yb=\dimen180
+\pgf@xc=\dimen181
+\pgf@yc=\dimen182
+\pgf@xd=\dimen183
+\pgf@yd=\dimen184
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count312
+\c@pgf@countb=\count313
+\c@pgf@countc=\count314
+\c@pgf@countd=\count315
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+\pgf@sys@id@count=\count316
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+f.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-xetex.def
+File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count317
+)))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count318
+\pgfsyssoftpath@bigbuffer@items=\count319
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+core.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.c
+ode.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathut
+il.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpa
+rser.code.tex
+\pgfmath@dimen=\dimen185
+\pgfmath@count=\count320
+\pgfmath@box=\box58
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.basic.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.trigonometric.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.random.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.comparison.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.base.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.round.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.misc.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.integerarithmetics.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathca
+lc.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfl
+oat.code.tex
+\c@pgfmathroundto@lastzeros=\count321
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.co
+de.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen186
+\pgf@picmaxx=\dimen187
+\pgf@picminy=\dimen188
+\pgf@picmaxy=\dimen189
+\pgf@pathminx=\dimen190
+\pgf@pathmaxx=\dimen191
+\pgf@pathminy=\dimen192
+\pgf@pathmaxy=\dimen193
+\pgf@xx=\dimen194
+\pgf@xy=\dimen195
+\pgf@yx=\dimen196
+\pgf@yy=\dimen197
+\pgf@zx=\dimen198
+\pgf@zy=\dimen199
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen256
+\pgf@path@lasty=\dimen257
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen258
+\pgf@shorten@start@additional=\dimen259
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count322
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen260
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen261
+\pgf@pt@y=\dimen262
+\pgf@pt@temp=\dimen263
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen264
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen265
+\pgf@sys@shading@range@num=\count323
+\pgf@shadingcount=\count324
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box62
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
+uleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box63
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
+uleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pg
+fcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen266
+\pgf@nodesepend=\dimen267
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pg
+fcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor
+.sty
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkey
+s.sty
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
+eys.code.tex))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.c
+ode.tex))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgff
+or.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen268
+\pgffor@skip=\dimen269
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
+ibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count325
+\pgfplotmarksize=\dimen270
+)
+\tikz@lastx=\dimen271
+\tikz@lasty=\dimen272
+\tikz@lastxsaved=\dimen273
+\tikz@lastysaved=\dimen274
+\tikz@lastmovetox=\dimen275
+\tikz@lastmovetoy=\dimen276
+\tikzleveldistance=\dimen277
+\tikzsiblingdistance=\dimen278
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count326
+\tikznumberofchildren=\count327
+\tikznumberofcurrentchild=\count328
+\tikz@fig@count=\count329
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
+ulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count330
+\pgfmatrixcurrentcolumn=\count331
+\pgf@matrix@numberofcolumns=\count332
+)
+\tikz@expandcount=\count333
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shap
+es\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
+ibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen279
+\pgfarrowlength=\dimen280
+\pgfarrowwidth=\dimen281
+\pgfarrowlinewidth=\dimen282
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box68
+\pgf@layerboxsaved@background=\box69
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarybabel.code.tex
+File: tikzlibrarybabel.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf-pie\pgf-pie.sty
+Package: pgf-pie 2022/06/14 v0.7 Some LaTeX macros for pie chart by using PGF/T
+ikz package.
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgf-pie\tikzlibraryp
+ie.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.st
+y)
+\pgfpie@angleEnd=\dimen283
+\pgfpie@explodeLength=\count334
+\pgfpie@colorLength=\count335
+\pgfpie@sliceLength=\count336
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.st
+y
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.
+revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.
+code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsc
+ore.code.tex
+\t@pgfplots@toka=\toks38
+\t@pgfplots@tokb=\toks39
+\t@pgfplots@tokc=\toks40
+\pgfplots@tmpa=\dimen284
+\c@pgfplots@coordindex=\count337
+\c@pgfplots@scanlineindex=\count338
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfpl
+otssysgeneric.code.tex))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfp
+lotslibrary.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcom
+patib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
+ibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcom
+patib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfp
+lotsutil.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruc
+ture\pgfplotsliststructure.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruc
+ture\pgfplotsliststructureext.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruc
+ture\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count339
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruc
+ture\pgfplotsmatrix.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\
+pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count340
+\t@pgfplotstable@a=\toks44
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruc
+ture\pgfplotsdeque.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfp
+lotsbinary.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfp
+lotsbinary.data.code.tex))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfp
+lotsutil.verb.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfl
+ibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count341
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfli
+brarypgfplots.surfshading.pgfsys-xetex.def
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfli
+brarypgfplots.surfshading.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count342
+))))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfp
+lotscolormap.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfp
+lotscolor.code.tex))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotss
+tackedplots.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsp
+lothandlers.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsm
+eshplothandler.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsm
+eshplotimage.code.tex)))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.
+scaling.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsc
+oordprocessing.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.
+errorbars.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.
+markers.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotst
+icks.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.
+paths.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
+uledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen285
+\pgfdecoratedremainingdistance=\dimen286
+\pgfdecoratedinputsegmentcompleteddistance=\dimen287
+\pgfdecoratedinputsegmentremainingdistance=\dimen288
+\pgf@decorate@distancetomove=\dimen289
+\pgf@decorate@repeatstate=\count343
+\pgfdecorationsegmentamplitude=\dimen290
+\pgfdecorationsegmentlength=\dimen291
+)
+\tikz@lib@dec@box=\box70
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/deco
+rations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/deco
+rations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikz
+librarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count344
+\pgfplots@xmin@reg=\dimen292
+\pgfplots@xmax@reg=\dimen293
+\pgfplots@ymin@reg=\dimen294
+\pgfplots@ymax@reg=\dimen295
+\pgfplots@zmin@reg=\dimen296
+\pgfplots@zmax@reg=\dimen297
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
+ibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.
+sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.te
+x
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.t
+ex
+\XKV@toks=\toks45
+\XKV@tempa@toks=\toks46
+)
+\XKV@depth=\count345
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.st
+y
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.s
+ty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbo
+x.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box71
+)
+\tc@llx=\dimen298
+\tc@lly=\dimen299
+\tc@urx=\dimen300
+\tc@ury=\dimen301
+Package trimclip Info: Using driver 'tc-xetex.def'.
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-xetex.d
+ef
+File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
+))
+\adjbox@Width=\dimen302
+\adjbox@Height=\dimen303
+\adjbox@Depth=\dimen304
+\adjbox@Totalheight=\dimen305
+\adjbox@pwidth=\dimen306
+\adjbox@pheight=\dimen307
+\adjbox@pdepth=\dimen308
+\adjbox@ptotalheight=\dimen309
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.
+sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count346
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.st
+y
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box72
+\sift@deathcycles=\count347
+\@vwid@loff=\dimen310
+\@vwid@roff=\dimen311
+)
+==> First Aid for varwidth.sty applied!
+) (C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen312
+\TX@old@table=\dimen313
+\TX@old@col=\dimen314
+\TX@target=\dimen315
+\TX@delta=\dimen316
+\TX@cols=\count348
+\TX@ftn=\toks47
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.st
+y
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count349
+\multirow@dima=\skip58
+\bigstrutjot=\dimen317
+) (C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count350
+\float@exts=\toks48
+\float@box=\box73
+\@float@everytoks=\toks49
+\@floatcapt=\box74
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.
+sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip59
+\subfigcapskip=\skip60
+\subfigcaptopadj=\dimen318
+\subfigbottomskip=\skip61
+\subfigcapmargin=\dimen319
+\subfiglabelskip=\skip62
+\c@subfigure=\count351
+\c@lofdepth=\count352
+\c@subtable=\count353
+\c@lotdepth=\count354
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.
+cfg)
+\subfig@top=\skip63
+\subfig@bottom=\skip64
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikz
+librarypgfplots.polar.code.tex)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.st
+y
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count355
+\c@@ppsavesec=\count356
+\c@@ppsaveapp=\count357
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.st
+y
+\lst@mode=\count358
+\lst@gtempboxa=\box75
+\lst@token=\toks50
+\lst@length=\count359
+\lst@currlwidth=\dimen320
+\lst@column=\count360
+\lst@pos=\count361
+\lst@lostspace=\dimen321
+\lst@width=\dimen322
+\lst@newlines=\count362
+\lst@lineno=\count363
+\lst@maxwidth=\dimen323
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.st
+y
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count364
+\lst@skipnumbers=\count365
+\lst@framebox=\box76
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cf
+g
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepag
+e.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count366
+\cp@tempcnt=\count367
+LaTeX Info: Redefining \checkoddpage on input line 59.
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
+y
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.st
+y
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip65
+\f@nch@offset@elh=\skip66
+\f@nch@offset@erh=\skip67
+\f@nch@offset@olh=\skip68
+\f@nch@offset@orh=\skip69
+\f@nch@offset@elf=\skip70
+\f@nch@offset@erf=\skip71
+\f@nch@offset@olf=\skip72
+\f@nch@offset@orf=\skip73
+\f@nch@height=\skip74
+\f@nch@footalignment=\skip75
+\f@nch@widthL=\skip76
+\f@nch@widthC=\skip77
+\f@nch@widthR=\skip78
+\@temptokenb=\toks51
+) (C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
+y
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip79
+\enit@outerparindent=\dimen324
+\enit@toks=\toks52
+\enit@inbox=\box77
+\enit@count@id=\count368
+\enitdp@description=\count369
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen325
+\captionmargin=\dimen326
+\caption@leftmargin=\dimen327
+\caption@rightmargin=\dimen328
+\caption@width=\dimen329
+\caption@indent=\dimen330
+\caption@parindent=\dimen331
+\caption@hangindent=\dimen332
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count370
+\c@continuedfloat=\count371
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen333
+\caption@adjustwidth@linewidth=\dimen334
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.st
+y
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.st
+y
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box78
+\beforetitleunit=\skip80
+\aftertitleunit=\skip81
+\ttl@plus=\dimen335
+\ttl@minus=\dimen336
+\ttl@toksa=\toks53
+\titlewidth=\dimen337
+\titlewidthlast=\dimen338
+\titlewidthfirst=\dimen339
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(1)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX,Script=Greek].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=grek;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=grek;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=grek;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=grek;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=grek;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=grek;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=grek;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=grek;language=dflt;+smcp;mapping=tex-
+text;"
+
+ (thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-61.70404pt
+* \headheight=35.56593pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=35.56593pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 98.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 98.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 98.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 98.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 98.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 98.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 98.
+LaTeX Font Info:    Redeclaring math accent \check on input line 98.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 98.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 98.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 98.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 98.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 98.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 9
+8.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 98.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+98.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+98.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 98.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 98.
+
+LaTeX Info: Redefining \Upsilon on input line 98.
+LaTeX Info: Redefining \Omega on input line 98.
+LaTeX Info: Redefining \alpha on input line 98.
+LaTeX Info: Redefining \epsilon on input line 98.
+LaTeX Info: Redefining \eta on input line 98.
+LaTeX Info: Redefining \iota on input line 98.
+LaTeX Info: Redefining \rho on input line 98.
+LaTeX Info: Redefining \upsilon on input line 98.
+LaTeX Info: Redefining \omega on input line 98.
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+\c@lstlisting=\count372
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+File: Images/ihu-logo-gr.png Graphic file (type bmp)
+<Images/ihu-logo-gr.png>
+File: Images/Cover-Image-Placeholder.png Graphic file (type bmp)
+<Images/Cover-Image-Placeholder.png>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 131
+.
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 131
+.
+
+(C:\Users\aggeliki\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+[1
+
+] [2
+
+
+] [3
+
+] [4
+
+]
+Overfull \hbox (6.21803pt too wide) in paragraph at lines 203--207
+\TU/TimesNewRoman(1)/m/n/10.95 λόγηση του HorusAccess, ενός μη επεμβατικού συστ
+ήματος Υποστηρικτικής Αλληλεπίδρασης Ανθρώπου-
+ []
+
+[5
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 222--228
+
+ []
+
+
+Overfull \hbox (4.56157pt too wide) in paragraph at lines 231--249
+\TU/TimesNewRoman(1)/m/n/10.95 innovative, non-invasive Assistive Human-Compute
+r Interaction (HCI) system. The system was developed
+ []
+
+
+Overfull \hbox (1.22966pt too wide) in paragraph at lines 231--249
+\TU/TimesNewRoman(1)/m/n/10.95 to provide full digital accessibility to individ
+uals with severe motor disabilities in the upper limbs, enabling
+ []
+
+
+Overfull \hbox (4.20776pt too wide) in paragraph at lines 231--249
+\TU/TimesNewRoman(1)/m/n/10.95 Through the MediaPipe Face Mesh framework, the s
+ystem extracts $\OT1/cmr/m/n/10.95 478$ \TU/TimesNewRoman(1)/m/n/10.95 three-di
+mensional facial landmarks
+ []
+
+[6
+
+] [7
+
+] (thesis.toc [8
+
+])
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+ [9] (thesis.lof
+Overfull \hbox (39.19025pt too wide) in paragraph at lines 14--14
+ [][] []\TU/TimesNewRoman(1)/m/n/10 Μέτρηση απόστασης μεταξύ φρυδιού και οφθαλμ
+ού για την ανίχνευση κινητικότητας (ανύψωση/συνοφρύωση). [][]  
+ []
+
+)
+\tf@lof=\write5
+\openout5 = `thesis.lof'.
+
+ (thesis.lot [10
+
+])
+\tf@lot=\write6
+\openout6 = `thesis.lot'.
+
+ [11] [12
+
+] [1
+
+]
+Overfull \hbox (5.4232pt too wide) in paragraph at lines 379--380
+[]\TU/TimesNewRoman(1)/b/n/10.95 Προσομοίωση εντολών ελέγχου: \TU/TimesNewRoman
+(1)/m/n/10.95 Αντιστοίχιση (mapping) των αναγνωρισμένων κινήσεων σε πραγ-
+ []
+
+[2]
+Overfull \hbox (5.46596pt too wide) in paragraph at lines 391--393
+[]\TU/TimesNewRoman(1)/b/n/10.95 Απόλυτα ανέπαφη αλληλεπίδραση (Touchless Inter
+action): \TU/TimesNewRoman(1)/m/n/10.95 Το σύστημα προσφέρει πλήρη έλεγχο
+ []
+
+[3] [4] [5
+
+] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]|\TU/TimesNewRoman(1)/b/n/10 Xbox Adaptive
+ []
+
+File: picture1.png Graphic file (type bmp)
+<picture1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]|\TU/TimesNewRoman(1)/b/n/10 PlayStation
+ []
+
+File: picture2.png Graphic file (type bmp)
+<picture2.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]|\TU/TimesNewRoman(1)/b/n/10 ByoWave
+ []
+
+File: picture3.png Graphic file (type bmp)
+<picture3.png>
+File: picture4.png Graphic file (type bmp)
+<picture4.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]|\TU/TimesNewRoman(1)/b/n/10 Nintendo
+ []
+
+File: picture5.png Graphic file (type bmp)
+<picture5.png>
+[8] [9]
+Overfull \hbox (1.91057pt too wide) in paragraph at lines 583--584
+ [][] 
+ []
+
+
+Overfull \hbox (1.91057pt too wide) in paragraph at lines 634--635
+ [][] 
+ []
+
+[10]
+Overfull \hbox (10.26471pt too wide) in paragraph at lines 639--640
+\TU/TimesNewRoman(1)/m/n/10.95 βαθμό εξατομίκευσης και πλήρη αυτονομία ενεργοπο
+ίησης από τον παίκτη χωρίς περιττά καλώδια. Ωστόσο,
+ []
+
+
+Overfull \hbox (13.81755pt too wide) in paragraph at lines 683--684
+ [][] 
+ []
+
+[11]
+Overfull \hbox (26.72209pt too wide) in paragraph at lines 734--735
+ [][] 
+ []
+
+
+Overfull \hbox (19.20305pt too wide) in paragraph at lines 780--781
+ [][] 
+ []
+
+[12]
+Overfull \hbox (12.2349pt too wide) in paragraph at lines 789--791
+[]\TU/TimesNewRoman(1)/m/n/10.95 Σε αντίθεση με τις λύσεις υλικού, οι προσεγγίσ
+εις που βασίζονται αποκλειστικά σε λογισμικό (softwarebased
+ []
+
+[13]
+File: picture6.png Graphic file (type bmp)
+<picture6.png>
+File: picture7.png Graphic file (type bmp)
+<picture7.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--848
+[]|\TU/TimesNewRoman(1)/b/n/10 Tobii (eye
+ []
+
+File: picture8.png Graphic file (type bmp)
+<picture8.png>
+[14] [15]
+Overfull \hbox (3.92326pt too wide) in paragraph at lines 915--916
+ [][] 
+ []
+
+[16] [17] [18]
+Overfull \hbox (0.61563pt too wide) in paragraph at lines 1001--1002
+[]\TU/TimesNewRoman(1)/b/n/10.95 Αξιοποίηση Μοντέρνων Αλγορίθμων: \TU/TimesNewR
+oman(1)/m/n/10.95 Η χρήση ελαφρών μοντέλων Τεχνητής Νοημοσύνης (όπως
+ []
+
+[19] [20]
+File: bgr.jpg Graphic file (type bmp)
+<bgr.jpg>
+File: rgb.jpg Graphic file (type bmp)
+<rgb.jpg>
+ [21
+
+]
+File: face.png Graphic file (type bmp)
+<face.png>
+ [22]
+
+LaTeX Warning: Citation `soukupova2016real' on page 23 undefined on input line 
+1204.
+
+[23]
+Underfull \hbox (badness 2158) in paragraph at lines 1225--1225
+[]\TU/TimesNewRoman(1)/m/n/10.95 Σχήμα 3.3: |Γεωμετρικός υπολογισμός μορφολογία
+ς στόματος (οριζόντιο εύρος και κατακόρυφο
+ []
+
+[24] [25
+
+]
+
+LaTeX Warning: Citation `lugaresi2019mediapipe' on page 26 undefined on input l
+ine 1344.
+
+
+LaTeX Warning: Citation `vaswani2017attention' on page 26 undefined on input li
+ne 1352.
+
+
+LaTeX Warning: Citation `vaswani2017attention' on page 26 undefined on input li
+ne 1354.
+
+[26] [27] [28]
+
+LaTeX Warning: Citation `fitts1954information' on page 29 undefined on input li
+ne 1409.
+
+
+LaTeX Warning: Citation `soukoreff2004fitts' on page 29 undefined on input line
+ 1409.
+
+
+LaTeX Warning: Citation `soukoreff2004fitts' on page 29 undefined on input line
+ 1413.
+
+[29] [30] [31
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1495
+[]|\TU/TimesNewRoman(1)/m/n/10.95 Ανίχνευση Εκφράσεων
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1496--1496
+[]|\TU/TimesNewRoman(1)/m/n/10.95 Αυτόματη Παραμετρο-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1498--1498
+[]|\TU/TimesNewRoman(1)/m/n/10.95 Παράκαμψη Ελέγχου
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 1498--1498
+[]|\TU/TimesNewRoman(1)/m/n/10.95 Αναστολή αυτόματου ελέγχου σε περί-
+ []
+
+[32] [33
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
+[]|\TU/TimesNewRoman(1)/b/n/10.95 Κατηγορία (ISO/IEC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1591--1591
+[]|\TU/TimesNewRoman(1)/m/n/10.95 Απόδοση & Χρονική
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 1593--1593
+[]|\TU/TimesNewRoman(1)/m/n/10.95 Αξιοπιστία & Στιβαρό-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1594--1594
+[]|\TU/TimesNewRoman(1)/m/n/10.95 Σχεδίαση χωρίς αποκλεισμούς, []\TU/TimesNewRo
+man(0)/m/n/10.95 Dark
+ []
+
+[34] [35]
+Overfull \hbox (5.0017pt too wide) in paragraph at lines 1720--1721
+[]\TU/TimesNewRoman(1)/m/n/10.95 Στην καρδιά του συστήματος βρίσκεται το Υποσύσ
+τημα Αντίληψης και Τεχνητής Νοημοσύνης (Perception
+ []
+
+
+Overfull \hbox (0.93382pt too wide) in paragraph at lines 1720--1721
+\TU/TimesNewRoman(1)/m/n/10.95 & AI Engine). Το υποσύστημα αυτό παραλαμβάνει τα
+ προεπεξεργασμένα δεδομένα και εφαρμόζει προηγ-
+ []
+
+[36]
+Overfull \hbox (2.38632pt too wide) in paragraph at lines 1724--1725
+[]\TU/TimesNewRoman(1)/m/n/10.95 Τέλος, το ανώτατο επίπεδο απαρτίζεται από το Υ
+ποσύστημα Διεπαφής Χρήστη και Εξόδου (User Interface
+ []
+
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no δ in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no θ in font nullfont!
+Missing character: There is no ω in font nullfont!
+Missing character: There is no μ in font nullfont!
+Missing character: There is no έ in font nullfont!
+Missing character: There is no ν in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+[37] [38] [39] [40] [41] [42] [43
+
+]
+Overfull \hbox (4.0919pt too wide) in paragraph at lines 2043--2048
+[]\TU/TimesNewRoman(1)/m/n/10.95 Επιπλέον, στο κεφάλαιο αυτό αναλύεται η δομή α
+ποθήκευσης δεδομένων μέσω της τοπικής βάσης []\TU/TimesNewRoman(0)/m/n/10.95 SQ
+Lite[]\TU/TimesNewRoman(1)/m/n/10.95 ,
+ []
+
+[44
+
+] [45] [46]
+Underfull \hbox (badness 10000) in paragraph at lines 2131--2131
+[]|\TU/TimesNewRoman(1)/m/n/10 Διαχείριση δείκτη και εστίασης σε περιβάλλοντα
+ []
+
+[47
+
+]
+Missing character: There is no 😮 in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no 😊 in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no 👁 in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no ️ in font Courier New/OT:script=grek;language=df
+lt;!
+
+Overfull \hbox (57.29904pt too wide) in paragraph at lines 2222--2222
+[]        \TU/CourierNew(1)/m/n/10.95 "left_eye_blink", "Αριστερό Βλέφαρο 👁️", 
+"Αριστερό Βλέφαρο", "below", 0.012,[] 
+ []
+
+Missing character: There is no 👁 in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no ️ in font Courier New/OT:script=grek;language=df
+lt;!
+
+Overfull \hbox (11.30159pt too wide) in paragraph at lines 2222--2222
+[]        \TU/CourierNew(1)/m/n/10.95 "right_eye_blink", "Δεξί Βλέφαρο 👁️", "Δε
+ξί Βλέφαρο", "below", 0.012,[] 
+ []
+
+[48]
+Missing character: There is no 😲 in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no 😠 in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no 👈 in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no 👉 in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no 😗 in font Courier New/OT:script=grek;language=df
+lt;!
+
+Overfull \hbox (39.77618pt too wide) in paragraph at lines 2222--2222
+[]        \TU/CourierNew(1)/m/n/10.95 "lips_pucker", "Χείλη Μπροστά (O) 😗", "Χε
+ίλη Μπροστά (O)", "above", 0.28,[] 
+ []
+
+Missing character: There is no 🐽 in font Courier New/OT:script=grek;language=df
+lt;!
+
+Overfull \hbox (11.30157pt too wide) in paragraph at lines 2222--2222
+[]        \TU/CourierNew(1)/m/n/10.95 "nose_scrunch", "Σούφρωμα Μύτης 🐽", "Σούφ
+ρωμα Μύτης", "below", 0.07,[] 
+ []
+
+Missing character: There is no 😤 in font Courier New/OT:script=grek;language=df
+lt;!
+
+Overfull \hbox (37.58583pt too wide) in paragraph at lines 2222--2222
+[]        \TU/CourierNew(1)/m/n/10.95 "cheek_puff", "Φούσκωμα Μάγουλων 😤", "Φού
+σκωμα Μάγουλων", "above", 0.15,[] 
+ []
+
+Missing character: There is no ⬆ in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no ️ in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no ⬇ in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no ️ in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no ⬅ in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no ️ in font Courier New/OT:script=grek;language=df
+lt;!
+
+Overfull \hbox (4.7305pt too wide) in paragraph at lines 2222--2222
+[]        \TU/CourierNew(1)/m/n/10.95 "head_left", "Κεφάλι Αριστερά ⬅️", "Κεφάλ
+ι Αριστερά", "above", 0.06,[] 
+ []
+
+Missing character: There is no ➡ in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no ️ in font Courier New/OT:script=grek;language=df
+lt;!
+Missing character: There is no 🔄 in font Courier New/OT:script=grek;language=df
+lt;!
+[49] [50]
+Overfull \hbox (68.25089pt too wide) in paragraph at lines 2298--2298
+[]    \TU/CourierNew(1)/m/n/10.95 HEAD_METRICS = ("head_up", "head_down", "head
+_left", "head_right", "head_roll")[] 
+ []
+
+[51] [52]
+Overfull \hbox (18.07785pt too wide) in paragraph at lines 2373--2374
+[]\TU/TimesNewRoman(1)/m/n/10.95 Τις προτροπές του συστήματος τεχνητής νοημοσύν
+ης ([]\TU/TimesNewRoman(0)/m/n/10.95 AI prompt[]\TU/TimesNewRoman(1)/m/n/10.95 
+, μέσω του \TU/CourierNew(1)/m/n/10.95 AVAILABLE_MOTIONS\TU/TimesNewRoman(1)/m/
+n/10.95 ). 
+ []
+
+
+Overfull \hbox (55.14012pt too wide) in paragraph at lines 2374--2375
+[]\TU/TimesNewRoman(1)/m/n/10.95 Τις προκαθορισμένες τιμές κατωφλίων ενεργοποίη
+σης ([]\TU/TimesNewRoman(0)/m/n/10.95 threshold defaults[]\TU/TimesNewRoman(1)/
+m/n/10.95 , μέσω του \TU/CourierNew(1)/m/n/10.95 default_threshold\TU/TimesNewR
+oman(1)/m/n/10.95 ). 
+ []
+
+
+Overfull \hbox (10.26442pt too wide) in paragraph at lines 2378--2379
+[]\TU/TimesNewRoman(1)/m/n/10.95 Οι παραμέτροι αυτοί συνδέονται μέσω της δομής 
+[]\TU/TimesNewRoman(0)/m/n/10.95 active_mappings []\TU/TimesNewRoman(1)/m/n/10.
+95 (\TU/CourierNew(1)/m/n/10.95 {motion: {key, threshold}}\TU/TimesNewRoman(1)/
+m/n/10.95 ),
+ []
+
+
+Overfull \hbox (3.06973pt too wide) in paragraph at lines 2382--2385
+\TU/TimesNewRoman(1)/m/n/10.95 Οι χειροκίνητοι επεξεργαστές προστατεύουν την υφ
+ιστάμενη αντιστοίχιση του αριστερού κλικ ([]\TU/TimesNewRoman(0)/m/n/10.95 left
+_click[]\TU/TimesNewRoman(1)/m/n/10.95 )
+ []
+
+[53] [54]
+Overfull \hbox (66.06052pt too wide) in paragraph at lines 2445--2445
+[]    \TU/CourierNew(1)/m/n/10.95 if lowered in LAUNCHER_NAMES or os.path.split
+ext(lowered)[0] in LAUNCHER_NAMES:[] 
+ []
+
+[55]
+Overfull \hbox (30.20778pt too wide) in paragraph at lines 2476--2478
+\TU/TimesNewRoman(1)/m/n/10.95 και ρυθμίζει το κεντρικό σύστημα πλέγματος ([]\T
+U/TimesNewRoman(0)/m/n/10.95 Grid Layout[]\TU/TimesNewRoman(1)/m/n/10.95 ). Με 
+τη χρήση της \TU/CourierNew(1)/m/n/10.95 grid_columnconfigure(1,
+ []
+
+[56]
+File: userInterface.png Graphic file (type bmp)
+<userInterface.png>
+ [57]
+File: diaxeirishprofile.png Graphic file (type bmp)
+<diaxeirishprofile.png>
+ [58]
+File: eisagwghKinhshs.png Graphic file (type bmp)
+<eisagwghKinhshs.png>
+ [59]
+File: horusAi.png Graphic file (type bmp)
+<horusAi.png>
+ [60]
+File: Aisuggestion.png Graphic file (type bmp)
+<Aisuggestion.png>
+ [61] [62] [63]
+Overfull \hbox (4.73053pt too wide) in paragraph at lines 2617--2617
+[]            \TU/CourierNew(1)/m/n/10.95 INSERT INTO mappings (profile_id, act
+ion, mapped_key, threshold)[] 
+ []
+
+
+Overfull \hbox (135.52559pt too wide) in paragraph at lines 2619--2620
+\TU/TimesNewRoman(1)/m/n/10.95 όπως τα \TU/CourierNew(1)/m/n/10.95 migrate_lega
+cy_thresholds\TU/TimesNewRoman(1)/m/n/10.95 , \TU/CourierNew(1)/m/n/10.95 migra
+te_legacy_key_aliases \TU/TimesNewRoman(1)/m/n/10.95 και \TU/CourierNew(1)/m/n/
+10.95 migrate_legacy_action_aliases\TU/TimesNewRoman(1)/m/n/10.95 ),
+ []
+
+
+Overfull \hbox (2.53687pt too wide) in paragraph at lines 2619--2620
+\TU/TimesNewRoman(1)/m/n/10.95 οι οποίοι εξασφαλίζουν την απρόσκοπτη μεταφορά π
+αλαιότερων δομών στη νέα κανονικοποιημένη μορφή
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 2641--2643
+
+ []
+
+
+Overfull \hbox (40.95795pt too wide) in paragraph at lines 2645--2646
+[]\TU/TimesNewRoman(1)/m/n/10.95 Για κάθε ενεργή αντιστοίχιση, η συνάρτηση \TU/
+CourierNew(1)/m/n/10.95 is_gesture_active(action, value, threshold)
+ []
+
+[65] [66] [67] [68] [69]
+Overfull \hbox (10.12117pt too wide) in paragraph at lines 2751--2753
+[]\TU/TimesNewRoman(1)/m/n/10.95 Κατά τη διάρκεια της δοκιμής, κάθε συμμετέχων 
+κλήθηκε να τερματίσει το πρώτο επίπεδο από το platformer
+ []
+
+[70
+
+]
+
+LaTeX Warning: Citation `laugwitz2008construction' on page 71 undefined on inpu
+t line 2759.
+
+[71] [72] [73] [74]
+Package pgfplots info on input line 2992: Using 'lua backend=false' for axis: x
+ coord trafo unsupported.
+ [75]
+Package pgfplots info on input line 3036: Using 'lua backend=false' for axis: x
+ coord trafo unsupported.
+ [76]
+Package pgfplots info on input line 3080: Using 'lua backend=false' for axis: x
+ coord trafo unsupported.
+Package pgfplots info on input line 3124: Using 'lua backend=false' for axis: x
+ coord trafo unsupported.
+ [77]
+Package pgfplots info on input line 3168: Using 'lua backend=false' for axis: x
+ coord trafo unsupported.
+ [78]
+Package pgfplots info on input line 3212: Using 'lua backend=false' for axis: x
+ coord trafo unsupported.
+ [79]
+Package pgfplots info on input line 3256: Using 'lua backend=false' for axis: x
+ coord trafo unsupported.
+ [80]
+Package pgfplots info on input line 3300: Using 'lua backend=false' for axis: x
+ coord trafo unsupported.
+ [81] [82]
+Overfull \hbox (2.63481pt too wide) in paragraph at lines 3347--3348
+[]\TU/TimesNewRoman(1)/b/n/10.95 Ελκυστικότητα και Καινοτομία \TU/TimesNewRoman
+(1)/m/n/10.95 (Βαρετή–Συναρπαστική, Αδιάφορη–Ενδιαφέρουσα, Συμβατική–
+ []
+
+
+Overfull \hbox (13.42094pt too wide) in paragraph at lines 3351--3352
+[]\TU/TimesNewRoman(1)/b/n/10.95 Ευχρηστία και Σαφήνεια \TU/TimesNewRoman(1)/m/
+n/10.95 (Περίπλοκη–Εύκολη, Μπερδεμένη–Σαφής): Παρά τον τεχνολογικά προηγ-
+ []
+
+[83] [84] [85] [86
+
+] [87]
+Overfull \hbox (3.8717pt too wide) in paragraph at lines 3435--3436
+[]\TU/TimesNewRoman(1)/b/n/10.95 Βελτιστοποίηση Αποκρισιμότητας και Χρονικής Υσ
+τέρησης (Edge Computing Optimization):
+ []
+
+
+Overfull \hbox (1.84976pt too wide) in paragraph at lines 3435--3436
+\TU/TimesNewRoman(1)/m/n/10.95 Η περαιτέρω μεταγλώττιση και βελτιστοποίηση των 
+αλγορίθμων επεξεργασίας πλέγματος σε γλώσ-
+ []
+
+[88] [89]
+Underfull \hbox (badness 1377) in paragraph at lines 3470--3471
+[]\TU/TimesNewRoman(1)/m/n/10.95 W. Reynolds, “Gaming (With) the Xbox Adaptive 
+Controller,” in \TU/TimesNewRoman(1)/m/it/10.95 Proceedings of the 20th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3473--3474
+[]\TU/TimesNewRoman(1)/m/n/10.95 Microsoft, “Xbox Adaptive Controller,” Officia
+l Product Page, 2024. [Online].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3473--3474
+\TU/TimesNewRoman(1)/m/n/10.95 Available: $[][][][][] [] [] [] [][][] [] [][][]
+[] [] [][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][][
+] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3476--3477
+[]\TU/TimesNewRoman(1)/m/n/10.95 Associated Press, “New PlayStation Controller 
+Aims to Make
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3476--3477
+\TU/TimesNewRoman(1)/m/n/10.95 Gaming Easier for People with Disabilities,” \TU
+/TimesNewRoman(1)/m/it/10.95 VOA News\TU/TimesNewRoman(1)/m/n/10.95 , Oct. 15,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3476--3477
+\TU/TimesNewRoman(1)/m/n/10.95 2023. [Online]. Available: $[][][][][] [] [] [] 
+[][][] [] [][][][][][][] [] [][][] [] [] []
+ []
+
+
+Overfull \hbox (173.44023pt too wide) in paragraph at lines 3476--3477
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 3479--3480
+[]\TU/TimesNewRoman(1)/m/n/10.95 Accessible Gaming, “Byowave Proteus Modular Co
+ntroller Kit – Lithos Kit,” Product
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3479--3480
+\TU/TimesNewRoman(1)/m/n/10.95 Catalog, [Online]. Available: $[][][][][] [] [] 
+[] [][][][][][][][][][][][][][][][] [] [][] [] [][] [] [][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3485--3486
+\TU/TimesNewRoman(1)/m/n/10.95 Media Release, [Online]. Available: $[][][][][] 
+[] [] [] [][][][][] [] [][][] [] [][] [] [][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3488--3489
+[]\TU/TimesNewRoman(1)/m/n/10.95 A. Corselli, “Meet HandProxy: A Digital, Voice
+-Controlled Hand that Aims
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3488--3489
+\TU/TimesNewRoman(1)/m/n/10.95 to Enhance AR/VR,” \TU/TimesNewRoman(1)/m/it/10.
+95 Tech Briefs\TU/TimesNewRoman(1)/m/n/10.95 , Oct. 23, 2025. [Online]. Availab
+le:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3488--3489
+[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] [][][] [] [][][][][][][][
+][] [] [][][][][][][] [] [][][][][][][] []
+ []
+
+
+Overfull \hbox (73.87433pt too wide) in paragraph at lines 3488--3489
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][]$ 
+ []
+
+[90
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3491--3492
+[]\TU/TimesNewRoman(1)/m/n/10.95 G. Landgraf, “Adaptive Arcade: Library program
+ makes videogames accessible to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3491--3492
+\TU/TimesNewRoman(1)/m/n/10.95 all,” \TU/TimesNewRoman(1)/m/it/10.95 American L
+ibraries Magazine\TU/TimesNewRoman(1)/m/n/10.95 , Nov. 3, 2025. [Online]. Avail
+able: $[][][][][] []
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 3500--3501
+[]\TU/TimesNewRoman(1)/m/n/10.95 Tobii AB, \TU/TimesNewRoman(1)/m/it/10.95 Tobi
+i Eye Tracking in Gaming and Assistive Technology: Technical Whitepaper\TU/Time
+sNewRoman(1)/m/n/10.95 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3530--3531
+[]\TU/TimesNewRoman(1)/m/n/10.95 A. Jain, “All about images and their formats l
+ike YUV, RGB, HSL,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3530--3531
+\TU/TimesNewRoman(1)/m/n/10.95 HSV, BGR, binary, CMYK, RGBA and YIQ,” \TU/Times
+NewRoman(1)/m/it/10.95 Medium\TU/TimesNewRoman(1)/m/n/10.95 , Jul. 9, 2024.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3530--3531
+\TU/TimesNewRoman(1)/m/n/10.95 [Online]. Available: $[][][][][] [] [] [] [][][]
+[][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][] []
+ []
+
+[91]
+Underfull \hbox (badness 10000) in paragraph at lines 3533--3534
+[]\TU/TimesNewRoman(1)/m/n/10.95 Google, “Face landmarker guide,” MediaPipe Sol
+utions, [Online]. Available: $[][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3533--3534
+[] [] [][][][][][][][][][] [] [][][][][][] [] [][][] [] [][][][] [] [][][][][][
+][][][] [] [][][][][][][][][] [] [][][][][][] [] [][][][] []
+ []
+
+[92]
+Underfull \hbox (badness 1360) in paragraph at lines 3584--3585
+[]\TU/TimesNewRoman(1)/m/n/10.95 C. Stephanidis, \TU/TimesNewRoman(1)/m/it/10.9
+5 User Interfaces for All: Concepts, Methods, and Tools\TU/TimesNewRoman(1)/m/n
+/10.95 . Lawrence Erlbaum
+ []
+
+[93] (thesis.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 36534 strings out of 402987
+ 899791 string characters out of 5447903
+ 1470025 words of memory out of 5000000
+ 64580 multiletter control sequences out of 15000+600000
+ 637553 words of font info for 179 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 84i,19n,117p,1441b,2468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on thesis.xdv (106 pages, 2445744 bytes).

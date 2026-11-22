@@ -1,0 +1,102 @@
+\xpg@aux {}{greek}
+\xpg@aux {}{greek}
+\xpg@aux {}{greek}
+\xpg@aux {}{greek}
+\xpg@aux {}{greek}
+\contentsline {subsection}{Πρόλογος}{iv}{}%
+\xpg@aux {}{greek}
+\contentsline {subsection}{Περίληψη}{v}{}%
+\contentsline {subsection}{Abstract}{vi}{}%
+\xpg@aux {}{greek}
+\contentsline {subsection}{Ευχαριστίες}{vii}{}%
+\contentsline {subsection}{Περιεχόμενα}{viii}{}%
+\contentsline {subsection}{Κατάλογος Σχημάτων}{x}{}%
+\contentsline {subsection}{Κατάλογος Πινάκων}{x}{}%
+\contentsline {subsection}{Συντομογραφίες}{xii}{}%
+\xpg@aux {}{greek}
+\contentsline {section}{\numberline {1}Εισαγωγή}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Περιορισμένη κινητικότητα και τεχνολογία}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Ορισμός προβλήματος και κίνητρο}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Σκοπός και στόχοι της εργασίας}{2}{}%
+\contentsline {subsection}{\numberline {1.4}Συνεισφορά της Εργασίας}{2}{}%
+\contentsline {subsection}{\numberline {1.5}Δομή εργασίας}{3}{}%
+\contentsline {section}{\numberline {2}Βιβλιογραφική Ανασκόπηση}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Εισαγωγή}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Κινητική Αναπηρία και Προσβασιμότητα}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Ορισμός, ανάγκες και κοινωνική/οικονομική διάσταση}{5}{}%
+\contentsline {paragraph}{Κοινωνική και Ψυχολογική Διάσταση}{5}{}%
+\contentsline {paragraph}{Οικονομική Διάσταση και Ανάγκες}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Προβλήματα συμβατικών χειριστηρίων και σύγχρονων λύσεων προσβασιμότητας}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Υπάρχουσες Λύσεις και Εναλλακτικά Χειριστήρια}{7}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Λύσεις υλισμικού και περιορισμοί}{7}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Ανάλυση Αλληλεπίδρασης και Περιπτώσεων Χρήσης (Use Cases) υλισμικού}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Λύσεις λογισμικού και περιορισμοί}{13}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Ανάλυση Αλληλεπίδρασης και Περιπτώσεων Χρήσης (Use Cases) λογισμικου}{15}{}%
+\contentsline {subsubsection}{\numberline {2.3.5}Ανάλυση Αυτοσχέδιων Χειριστηρίων και Περιορισμοί}{17}{}%
+\contentsline {paragraph}{Κύριοι Περιορισμοί και Μειονεκτήματα}{18}{}%
+\contentsline {subsubsection}{\numberline {2.3.6}Σύνοψη υφιστάμενων λύσεων και αιτιολόγηση επιλογής λογισμικού}{18}{}%
+\contentsline {subsection}{\numberline {2.4}Σύνοψη κεφαλαίου}{19}{}%
+\contentsline {section}{\numberline {3}Τεχνολογικό Υπόβαθρο}{21}{}%
+\contentsline {subsection}{\numberline {3.1}Εισαγωγή}{21}{}%
+\contentsline {subsection}{\numberline {3.2}Επεξεργασία Εικόνας}{21}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Θεωρία Επεξεργασίας Βίντεο και OpenCV}{21}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Το Πλαίσιο Google MediaPipe και Αναγνώριση Σημείων}{22}{}%
+\contentsline {subsection}{\numberline {3.3}Τεχνητή Νοημοσύνη}{25}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Αρχιτεκτονική Ενσωμάτωσης Μοντέλων μέσω Ollama}{27}{}%
+\contentsline {paragraph}{Ποσοτικοποίηση Μοντέλων (\textenglish {Model Quantization})}{27}{}%
+\contentsline {paragraph}{Επικοινωνία μέσω \textenglish {REST API} και Δομημένη Έξοδος}{28}{}%
+\contentsline {paragraph}{Πλεονεκτήματα Τοπικής Εκτέλεσης}{28}{}%
+\contentsline {subsection}{\numberline {3.4}Αλληλεπίδραση Ανθρώπου-Υπολογιστή}{28}{}%
+\contentsline {subsection}{\numberline {3.5}Σύνοψη κεφαλαίου}{30}{}%
+\contentsline {section}{\numberline {4}Ανάλυση Απαιτήσεων και Σχεδίαση συστήματος}{31}{}%
+\contentsline {subsection}{\numberline {4.1}Εισαγωγή}{31}{}%
+\contentsline {subsection}{\numberline {4.2}Καταγραφή απαιτήσεων συστήματος}{31}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Καταγραφή λειτουργικών απαιτήσεων}{31}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Καταγραφή μη λειτουργικών απαιτήσεων}{33}{}%
+\contentsline {subsection}{\numberline {4.3}Αρχιτεκτονική Συστήματος}{35}{}%
+\contentsline {subsection}{\numberline {4.4}Σχεδιασμός Διεπαφής χρήστη}{38}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Οπτική Ταυτότητα και Εργονομία (Visual Identity \& Ergonomics)}{38}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Χωρική Διάταξη και Εφαρμογή του Νόμου του Fitts}{38}{}%
+\contentsline {subsubsection}{\numberline {4.4.3}Σχεδιασμός Ειδικών Λειτουργιών και Εισαγωγής Κειμένου}{39}{}%
+\contentsline {subsubsection}{\numberline {4.4.4}Ορισμός και Περιγραφή Χειρονομιών και Εκφράσεων}{40}{}%
+\contentsline {subsection}{\numberline {4.5}Αξιολόγηση Ποσοστού Επιτυχίας Χειρονομιών σε Συνθήκες Φωτισμού}{41}{}%
+\contentsline {subsection}{\numberline {4.6}Σύνοψη Κεφαλαίου}{43}{}%
+\contentsline {section}{\numberline {5}Υλοποίηση του Λογισμικού}{44}{}%
+\contentsline {subsection}{\numberline {5.1}Εισαγωγή}{44}{}%
+\contentsline {subsection}{\numberline {5.2}Περιβάλλον Ανάπτυξης και Βιβλιοθήκες}{44}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Προαπαιτούμενα Συστήματος και Εργαλεία}{44}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Βασικές Εξαρτήσεις και Βιβλιοθήκες}{45}{}%
+\contentsline {subsubsection}{\numberline {5.2.3}Ενσωμάτωση Τοπικού LLM (Horus AI)}{45}{}%
+\contentsline {subsection}{\numberline {5.3}Αρχιτεκτονική και δομή κώδικα }{47}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}Οργάνωση Πακέτων}{47}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}Διαχείριση Κινήσεων και Περιφερειακών}{48}{}%
+\contentsline {subsubsection}{\numberline {5.3.3}Horus AI εντοπισμός παιχνιδιών}{54}{}%
+\contentsline {subsection}{\numberline {5.4}Διεπαφή Χρήστη και Διαχείριση Συσκευών (\texttt {gui/main.py})}{56}{}%
+\contentsline {subsection}{\numberline {5.5}Διαχείριση Δεδομένων και Αποθήκευση}{62}{}%
+\contentsline {subsection}{\numberline {5.6}Σχήμα Βάσης Δεδομένων SQLite}{63}{}%
+\contentsline {subsubsection}{\numberline {5.6.1}Συστήματα Προφίλ και Διατήρηση Δεδομένων}{64}{}%
+\contentsline {subsection}{\numberline {5.7}Περιορισμοί Συστήματος και Ειδικές Περιπτώσεις}{66}{}%
+\contentsline {subsubsection}{\numberline {5.7.1}Περιορισμοί Συνθετικής Εισόδου ανά Λειτουργικό}{66}{}%
+\contentsline {subsubsection}{\numberline {5.7.2}Συμπεριφορά σε Wayland / XWayland}{66}{}%
+\contentsline {subsection}{\numberline {5.8}Αντιμετώπιση Προκλήσεων και Σφάλματα Κώδικα (Bug Tracking)}{67}{}%
+\contentsline {subsubsection}{\numberline {5.8.1}Κατηγοριοποίηση και Σοβαρότητα Σφαλμάτων}{67}{}%
+\contentsline {subsubsection}{\numberline {5.8.2}Σημαντικότερες Κατηγορίες Σφαλμάτων και Λύσεις}{67}{}%
+\contentsline {subsection}{\numberline {5.9}Σύνοψη Κεφαλαίου}{68}{}%
+\contentsline {section}{\numberline {6}Αξιολόγηση Εφαρμογής}{70}{}%
+\contentsline {subsection}{\numberline {6.1}Εισαγωγή}{70}{}%
+\contentsline {subsection}{\numberline {6.2}Στόχοι Αξιολόγησης}{70}{}%
+\contentsline {subsection}{\numberline {6.3}Μεθοδολογία}{70}{}%
+\contentsline {subsection}{\numberline {6.4}Αποτελέσματα}{71}{}%
+\contentsline {subsubsection}{\numberline {6.4.1}Δημογραφικά χαρακτηριστικά}{71}{}%
+\contentsline {subsubsection}{\numberline {6.4.2}Τεχνολογική εξοικείωση και προσβασιμότητα}{73}{}%
+\contentsline {subsubsection}{\numberline {6.4.3}Αποτελέσματα ερωτηματολογίου UEQ-S}{75}{}%
+\contentsline {subsubsection}{\numberline {6.4.4}Παρατηρήσεις και προτάσεις βελτίωσης}{82}{}%
+\contentsline {subsubsection}{\numberline {6.4.5}Συνοπτική στατιστική ανάλυση UEQ-S}{82}{}%
+\contentsline {subsubsection}{\numberline {6.4.6}Σύγκριση με το UEQ Benchmark}{84}{}%
+\contentsline {subsection}{\numberline {6.5}Σύνοψη Κεφαλαίου}{84}{}%
+\contentsline {section}{\numberline {7}Συμπεράσματα και Μελλοντικές Προεκτάσεις}{86}{}%
+\contentsline {subsection}{\numberline {7.1}Σύνοψη Εργασίας και Βασικά Συμπεράσματα}{86}{}%
+\contentsline {subsection}{\numberline {7.2}Περιορισμοί του συστήματος}{87}{}%
+\contentsline {subsection}{\numberline {7.3}Προτάσεις και Μελλοντική Εξέλιξη}{88}{}%
+\xpg@aux {}{greek}
+\contentsline {section}{Βιβλιογραφία}{90}{}%

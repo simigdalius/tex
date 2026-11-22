@@ -1,0 +1,42 @@
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης για το Xbox Adaptive Controller.}}{10}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης για το PlayStation Access Controller.}}{11}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης για το QuadStick.}}{11}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης για το Nintendo Wiimote.}}{12}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης για το ByoWave Proteus.}}{12}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης για το Hands-free AI.}}{16}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης για το Shared Control.}}{16}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης για το Tobii (Eye Tracking).}}{17}{}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Αρχιτεκτονική ροής αλληλεπίδρασης συστήματος λογισμικού υπολογιστικής όρασης.}}{19}{}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Στιγμιότυπα επεξεργασίας εικόνας κατά τη μετατροπή από τον χρωματικό χώρο BGR σε RGB.[27]}}{22}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Χαρτογράφηση των τρισδιάστατων σημείων αναφοράς (facial landmarks) στο πρόσωπο μέσω του MediaPipe Face Mesh.[28]}}{22}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Γεωμετρικός υπολογισμός μορφολογίας στόματος (οριζόντιο εύρος και κατακόρυφο άνοιγμα).}}{24}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Αναλυτικός γεωμετρικός υπολογισμός του δείκτη EAR με χρήση 6 σημείων αναφοράς (MediaPipe) στον οφθαλμό.}}{24}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Μέτρηση απόστασης μεταξύ φρυδιού και οφθαλμού για την ανίχνευση κινητικότητας (ανύψωση/συνοφρύωση).}}{24}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχηματική αναπαράσταση του μοντέλου Joystick Head Tracking και της νεκρής ζώνης ($r_{\text {dead}}$).}}{25}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχηματική απεικόνιση της λειτουργίας μαγνητισμού του κέρσορα (Magnetic Snap) γύρω από ένα διαδραστικό στοιχείο, η οποία αυξάνει το αποτελεσματικό πλευρικό μέγεθος ($W$) για τον περιορισμό του σφάλματος.}}{30}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Περιπτώσεων Χρήσης του συστήματος HorusAccess.}}{33}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Κατακόρυφο Διάγραμμα Αρχιτεκτονικής Συστήματος HorusAccess.}}{36}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Ροής Λειτουργίας mouse override του συστήματος HorusAccess.}}{37}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχηματική απεικόνιση διάταξης του γραφικού περιβάλλοντος.}}{39}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα Αλληλουχίας (UML Sequence Diagram) της ασύγχρονης επικοινωνίας με τη μονάδα Horus AI.}}{40}{}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα αλληλεπίδρασης και ροής δεδομένων μεταξύ των βασικών υποσυστημάτων.}}{46}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Αρχιτεκτονική ροής δεδομένων ενσωμάτωσης του LLM στο HorusAccess.}}{55}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Το κεντρικό περιβάλλον χρήστη (UI) του HorusAccess.}}{57}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διαχείριση και επισκόπηση προφίλ.}}{59}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Εισαγωγή κίνησης και αντιστοίχιση πλήκτρου.}}{60}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Επιλογή εγκατεστημένου παιχνιδιού στο Horus AI.}}{61}{}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Μήνυμα πρότασης αλγορίθμου Horus AI.}}{62}{}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα αποτελεσμάτων στην ερώτηση «Σε ποια ηλικιακή ομάδα ανήκετε;»}}{72}{}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα απαντήσεων ερώτησης προσδιορισμού του φύλου των συμμετεχόντων}}{72}{}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα απαντήσεων σχετικά με το επίπεδο σπουδών των συμμετεχόντων}}{73}{}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα απαντήσεων στην ερώτηση: «Έχετε χρησιμοποιήσει στο παρελθόν παρόμοιες εφαρμογές ελέγχου προσβασιμότητας;»}}{73}{}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα απαντήσεων στην ερώτηση σχετικά με τη σαφήνεια των οδηγιών της εφαρμογής}}{74}{}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Διάγραμμα απαντήσεων στην ερώτηση σχετικά με την ευκολία του εναλλακτικού χειρισμού}}{74}{}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχήμα 6.7: Αποτελέσματα αξιολόγησης εφαρμογής ως προς το ζεύγος «Βαρετή – Συναρπαστική»}}{75}{}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχήμα 6.8: Αποτελέσματα αξιολόγησης εφαρμογής ως προς το ζεύγος «Αδιάφορη – Ενδιαφέρουσα»}}{76}{}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχήμα 6.9: Αποτελέσματα αξιολόγησης εφαρμογής ως προς το ζεύγος «Συμβατική – Εφευρετική»}}{77}{}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχήμα 6.10: Αποτελέσματα αξιολόγησης εφαρμογής ως προς το ζεύγος «Παρεμποδιστική – Υποστηρικτική»}}{78}{}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχήμα 6.11: Αποτελέσματα αξιολόγησης εφαρμογής ως προς το ζεύγος «Περίπλοκη – Εύκολη»}}{79}{}%
+\contentsline {figure}{\numberline {6.12}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχήμα 6.12: Αποτελέσματα αξιολόγησης εφαρμογής ως προς το ζεύγος «Συνηθισμένη – Πρωτοπόρα»}}{80}{}%
+\contentsline {figure}{\numberline {6.13}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχήμα 6.13: Αποτελέσματα αξιολόγησης εφαρμογής ως προς το ζεύγος «Ανεπαρκής – Επαρκής»}}{81}{}%
+\contentsline {figure}{\numberline {6.14}{\ignorespaces \texorpdfstring {\xpg@aux {}{greek}}{}\ignorespaces Σχήμα 6.14: Αποτελέσματα αξιολόγησης εφαρμογής ως προς το ζεύγος «Σαφής – Μπερδεμένη»}}{82}{}%
